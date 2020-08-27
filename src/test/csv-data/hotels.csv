@@ -1,0 +1,10 @@
+id,city_id,clicks,impressions,name,rating,stars
+0,0,8946,39470,hotel_basic_with_a_view_Berlin,67,4
+1,0,1204,21097,hotel_fun_with_a_view_Berlin,51,4
+2,0,1878,20939,hotel_king_by_the_sea_Berlin,27,4
+3,0,4784,65795,hotel_sunshine_resort_Berlin,27,2
+4,0,1024,3282,hotel_fantasy_with_a_view_Berlin,55,5
+5,0,6250,26565,hotel_basic_lodge_Berlin,51,4
+6,0,5171,50925,hotel_basic_downtown_Berlin,42,4
+7,0,6835,17218,hotel_superior_by_the_sea_Berlin,47,5
+8,0,6386,47886,hotel_central_by_the_sea_Berlin,59,3
